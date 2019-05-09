@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aireiphie.bambk.ru/sitemap.xml
